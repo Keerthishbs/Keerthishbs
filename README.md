@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keerthishbs
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Software Development
+- 💞️ I’m looking to collaborate on Software Development an dweb Development.
 - 📫 How to reach me keerthishsamrat@gmail.com
 
 <!---
